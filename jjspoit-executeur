@@ -33,7 +33,7 @@
 <body>
     <h1>Téléchargez votre fichier gratuitement</h1>
     <p>Cliquez sur le bouton ci-dessous pour télécharger le fichier :</p>
-    <a class="download-link" href="jjspoit.exe" download>Télécharger jjspoit.exe</a>
+    <a class="download-link" href="jjspoit.exe" download>Télécharger jjspoit.exe</a> <!-- Lien pour le téléchargement -->
     <p class="site-link">Visitez notre site : <a href="https://example.com">example.com</a></p>
     <p>Description : Un exécuteur de scripts pour Roblox permettant aux utilisateurs d'automatiser et de personnaliser leur expérience de jeu.</p>
 </body>
