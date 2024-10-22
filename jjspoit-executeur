@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fichier Gratuit à Télécharger</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f4f4f4;
+        }
+        a {
+            text-decoration: none;
+            color: white;
+            background-color: #4CAF50;
+            padding: 15px 25px;
+            border-radius: 5px;
+            font-size: 20px;
+        }
+        a:hover {
+            background-color: #45a049;
+        }
+        .download-link {
+            color: red; /* Couleur du lien de téléchargement */
+        }
+        .site-link {
+            color: black; /* Couleur du site */
+        }
+    </style>
+</head>
+<body>
+    <h1>Téléchargez votre fichier gratuitement</h1>
+    <p>Cliquez sur le bouton ci-dessous pour télécharger le fichier :</p>
+    <a class="download-link" href="jjspoit.exe" download>Télécharger jjspoit.exe</a>
+    <p class="site-link">Visitez notre site : <a href="https://example.com">example.com</a></p>
+    <p>Description : Un exécuteur de scripts pour Roblox permettant aux utilisateurs d'automatiser et de personnaliser leur expérience de jeu.</p>
+</body>
+</html>
